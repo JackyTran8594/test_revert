@@ -1,5 +1,4 @@
+<<<<<<< HEAD
 "edit app - 30.8.2021" 
-
-"diet app" 
-
-
+=======
+>>>>>>> parent of c36da60 (edit 1 app)
